@@ -1,0 +1,17 @@
+com/example/projectfortune/BuildConfig.java
+ com.example.projectfortune.BuildConfig
+com/example/projectfortune/OtherFortune.java
+ com.example.projectfortune.OtherFortune
+com/example/projectfortune/TodayFortune.java
+ com.example.projectfortune.TodayFortune
+com/example/projectfortune/MainActivity2.java
+ com.example.projectfortune.MainActivity2
+ com.example.projectfortune.MainActivity2$1
+ com.example.projectfortune.MainActivity2$2
+ com.example.projectfortune.MainActivity2$3
+ com.example.projectfortune.MainActivity2$4
+com/example/projectfortune/MainActivity.java
+ com.example.projectfortune.MainActivity
+ com.example.projectfortune.MainActivity$1
+ com.example.projectfortune.MainActivity$2
+ com.example.projectfortune.MainActivity$3
